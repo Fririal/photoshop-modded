@@ -1,2 +1,2 @@
-# photoshop-modded
+# Photoshop
 Photoshop 
